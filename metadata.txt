@@ -1,0 +1,14 @@
+[general]
+name=GRACE Processor
+qgisMinimumVersion=3.16
+description=Process GRACE satellite data for groundwater analysis with kriging interpolation for gap filling
+version=1.0.0
+author=M. G. Gurmu
+email=mggurmu@gmail.com
+about=Process GRACE satellite data for monthly/annual groundwater analysis. Features: Temporal processing, kriging interpolation, groundwater storage calculation, visualization.
+tracker=https://github.com/mggurmu/grace-processor
+repository=https://github.com/mggurmu/grace-processor
+tags=GRACE,groundwater,hydrology,satellite,processing,kriging
+icon=icon.png
+category=Hydrology
+homepage=https://github.com/mggurmu/grace-processor
